@@ -4,7 +4,7 @@ Hi 👋 My name is Shaaz Sikanderali
 Software Engineer
 -----------------
 
-My name is Shaaz and I'm a student at the University of Houston studying Computer Engineering. I really enjoy frontend development and have been learning frameworks like React to broaden my skill set in this area. I also work on lower level machine learning skills that relate more to the hardware aspect of engineering.
+My name is Shaaz and I'm a student at the University of Houston studying Computer Engineering. I really enjoy backend development and have been learning frameworks like React to broaden my skill set in other area. I also work on lower level machine learning skills that relate more to the hardware aspect of engineering.
 
 *   🌍  I'm based in Houston
 *   ✉️  You can contact me at [shaazsalim.s@gmail.com](mailto:shaazsalim.s@gmail.com)
